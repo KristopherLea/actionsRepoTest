@@ -1,1 +1,1 @@
-![![Java CI](https://github.com/KristopherLea/actionsRepoTest/workflows/Java%20CI/badge.svg?branch=dev)Java CI](https://github.com/KristopherLea/actionsRepoTest/workflows/Java%20CI/badge.svg)
+(https://github.com/KristopherLea/actionsRepoTest/workflows/Java%20CI/badge.svg)
